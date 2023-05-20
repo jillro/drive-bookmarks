@@ -1,0 +1,10 @@
+{
+  "contextMenuSyncAction": {
+    "message": "Synchroniser avec Google Drive",
+    "description": "Context menu item to sync with Google Drive"
+  },
+  "contextMenuReSyncAction": {
+    "message": "Dossier synchronisé (cliquez pour resynchroniser)",
+    "description": "Context menu item to download from Google Drive"
+  }
+}

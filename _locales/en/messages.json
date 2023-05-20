@@ -1,0 +1,10 @@
+{
+  "contextMenuSyncAction": {
+    "message": "Sync with Google Drive",
+    "description": "Context menu item to sync with Google Drive"
+  },
+  "contextMenuReSyncAction": {
+    "message": "Synced folder (click to sync again)",
+    "description": "Context menu item to re sync already synced folder"
+  }
+}
