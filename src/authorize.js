@@ -24,9 +24,9 @@
         "client_id=" +
         CLIENT_ID +
         "&response_type=token" +
-        "&scope=https://www.googleapis.com/auth/drive.readonly&" +
+        "&scope=https://www.googleapis.com/auth/drive.metadata.readonly&" +
         "&redirect_uri=" +
-        encodeURIComponent(browser.identity.getRedirectURL()),
+        redirectUri,
     });
 
     return extractToken(url);
