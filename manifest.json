@@ -5,7 +5,8 @@
   "version": "1.0",
   "icons": {
     "48": "icons/48.png",
-    "96": "icons/96.png"
+    "96": "icons/96.png",
+    "120": "icons/120.png"
   },
   "default_locale": "en",
   "browser_specific_settings": {
