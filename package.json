@@ -5,7 +5,8 @@
   "name": "drive-bookmarks",
   "version": "1.0.1",
   "scripts": {
-    "dev": "web-ext run"
+    "dev": "web-ext run",
+    "build": "web-ext build"
   },
   "author": "",
   "license": "ISC",
